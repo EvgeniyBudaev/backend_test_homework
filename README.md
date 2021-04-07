@@ -14,7 +14,7 @@ python3 -m venv venv
 
 Запуск виртуального окружения проекта
 В Windows:
-.\venv\Scripts\activate 
+.\venv\Scripts\activate
 В macOS или Linux:
 source venv/bin/activate 
 
